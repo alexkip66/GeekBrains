@@ -1,0 +1,15 @@
+F:\Мой диск\GeekBrains\Знакомство с языками программирования\C#\Example001_HelloConsole\Example001\Example02\obj\Debug\net6.0\Example02.csproj.AssemblyReference.cache
+F:\Мой диск\GeekBrains\Знакомство с языками программирования\C#\Example001_HelloConsole\Example001\Example02\obj\Debug\net6.0\Example02.GeneratedMSBuildEditorConfig.editorconfig
+F:\Мой диск\GeekBrains\Знакомство с языками программирования\C#\Example001_HelloConsole\Example001\Example02\obj\Debug\net6.0\Example02.AssemblyInfoInputs.cache
+F:\Мой диск\GeekBrains\Знакомство с языками программирования\C#\Example001_HelloConsole\Example001\Example02\obj\Debug\net6.0\Example02.AssemblyInfo.cs
+F:\Мой диск\GeekBrains\Знакомство с языками программирования\C#\Example001_HelloConsole\Example001\Example02\obj\Debug\net6.0\Example02.csproj.CoreCompileInputs.cache
+F:\Мой диск\GeekBrains\Знакомство с языками программирования\C#\Example001_HelloConsole\Example001\Example02\bin\Debug\net6.0\Example02.exe
+F:\Мой диск\GeekBrains\Знакомство с языками программирования\C#\Example001_HelloConsole\Example001\Example02\bin\Debug\net6.0\Example02.deps.json
+F:\Мой диск\GeekBrains\Знакомство с языками программирования\C#\Example001_HelloConsole\Example001\Example02\bin\Debug\net6.0\Example02.runtimeconfig.json
+F:\Мой диск\GeekBrains\Знакомство с языками программирования\C#\Example001_HelloConsole\Example001\Example02\bin\Debug\net6.0\Example02.dll
+F:\Мой диск\GeekBrains\Знакомство с языками программирования\C#\Example001_HelloConsole\Example001\Example02\bin\Debug\net6.0\Example02.pdb
+F:\Мой диск\GeekBrains\Знакомство с языками программирования\C#\Example001_HelloConsole\Example001\Example02\obj\Debug\net6.0\Example02.dll
+F:\Мой диск\GeekBrains\Знакомство с языками программирования\C#\Example001_HelloConsole\Example001\Example02\obj\Debug\net6.0\refint\Example02.dll
+F:\Мой диск\GeekBrains\Знакомство с языками программирования\C#\Example001_HelloConsole\Example001\Example02\obj\Debug\net6.0\Example02.pdb
+F:\Мой диск\GeekBrains\Знакомство с языками программирования\C#\Example001_HelloConsole\Example001\Example02\obj\Debug\net6.0\Example02.genruntimeconfig.cache
+F:\Мой диск\GeekBrains\Знакомство с языками программирования\C#\Example001_HelloConsole\Example001\Example02\obj\Debug\net6.0\ref\Example02.dll
